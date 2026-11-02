@@ -1,0 +1,4 @@
+# Keep spreadsheets and data exports out of the public repo
+*.xlsx
+*.xls
+*.csv
